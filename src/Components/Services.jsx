@@ -7,7 +7,7 @@ const Services = () => {
   return (
     <div name="Services" className="w-full my-12 md:h-screen h-screen bg-[url('/palash.jpg')] bg-center bg-cover bg-no-repeat md:px-36">
       <div class="border-2 md:px-16 px-6 mx-auto w-4/5 md:float-right md:w-2/4 md:h-screen h-full bg-white">
-          <p class="text-2xl font-semibold md:mt-12 mt-6 md:mb-4 mb-2">SERVICES
+          <p class="text-2xl font-semibold md:mt-8 mt-4 md:mb-4 mb-2">SERVICES
             <span class="inline-block w-24 h-1 ml-2 bg-rose-500"></span>
           </p>
           <h1 class="md:text-6xl text-5xl font-bold text-slate-900 md:mb-8 mb-6">Strive Only For The <br/>Best.
